@@ -65,8 +65,3 @@ MIT License.
 ## Author
 
 Vahe Demirkhanyan
-
-```
-
-Would you like me to also add a **“Payloads included”** section in the README, listing the main categories (traversals, sensitive files, wrappers, probes), so people know exactly what LFIProbe is fuzzing with?
-```
